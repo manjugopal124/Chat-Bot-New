@@ -1,0 +1,5 @@
+question,intent,target,answer
+how tall is trump tower,get_height,trump tower,trump tower is 423.2m tall
+how tall is the federation tower,get_height,federation tower,Federation tower is 374m tall
+how tall is Empire State Building,get_height,Empire State Building,Empire State Building is 381m tall
+how tall is Willis tower,get_height,Willis tower,Willis tower is 442.1m tall
